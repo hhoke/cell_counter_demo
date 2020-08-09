@@ -1,6 +1,6 @@
-# Blob Baron
+# Cell Counting Demos
 
-Blob Baron is a automated and completely free cell counter. It is intended for use by researchers. Modification is welcomed and encouraged.
+The goal of this project is to create an automated and completely free cell counter for 2d images. It is intended for use by researchers. Modification is welcomed and encouraged.
 
 ## Developer guide
 
